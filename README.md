@@ -1,5 +1,6 @@
 # Restaurant-Menu
 
+https://bogdanmoale.github.io/Restaurant-Menu/
 
 ## Overview
 This project is a dynamic restaurant menu implemented using HTML, CSS, and JavaScript. It showcases various categories of food and drinks that a restaurant offers. Users can click on different buttons to view different sections of the menu, such as starters, mains, desserts, and drinks.
